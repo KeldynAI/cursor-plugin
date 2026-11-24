@@ -1,0 +1,12 @@
+---
+description: How to read and update Keldyn records through the Keldyn MCP server
+alwaysApply: false
+---
+
+keldyn-records:
+
+- Treat Keldyn tool results as the source of truth for controls, evidence, audits, risks, tasks, and knowledge.
+- Do not invent status, findings, policy text, or record ids when a tool fails or returns no rows.
+- Ask before writes, including control updates, task changes, document approval, trust center publishing, and risk, data, or third-party register edits.
+- Stay inside the signed-in team. Do not retry a denied call against another team or a guessed id.
+- Trust center images and signed contract files are uploaded in the Keldyn web app.

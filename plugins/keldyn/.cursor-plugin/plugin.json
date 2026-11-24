@@ -1,0 +1,12 @@
+{
+  "name": "keldyn",
+  "displayName": "Keldyn",
+  "version": "1.0.0",
+  "description": "Keldyn security and compliance workspace for Cursor, connected to the hosted Keldyn MCP server.",
+  "author": {
+    "name": "KeldynAI Ltd",
+    "email": "support@keldyn.ai"
+  },
+  "keywords": ["keldyn", "compliance", "security", "grc", "mcp", "audit"],
+  "logo": "assets/logo.svg"
+}
